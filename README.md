@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+HOW TO USE THIS WEBSITE
 
-# Run and deploy your AI Studio app
+1. Open index.html
 
-This contains everything you need to run your app locally.
+2. Edit text using any editor (VS Code recommended)
 
-View your app in AI Studio: https://ai.studio/apps/0edf0b03-672c-4533-9f7c-ee3e6cc474eb
+3. Replace:
 
-## Run Locally
+   * Business name
+   * Services
+   * Contact info
 
-**Prerequisites:**  Node.js
+4. Upload to:
 
+* Netlify
+* Vercel
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+No coding skills required (basic editing only)
+
